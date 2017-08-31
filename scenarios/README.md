@@ -30,11 +30,11 @@
 
 ## Digital Signature
 
-* Roles
+* Roles: Business Partners and Prospects
 
-* Transactions
+* Transactions: Execute Signatures on NDA
 
-* Data
+* Data: Party Name and Contact Info and Terms of the Contract
 
 -----------------------------------
 
