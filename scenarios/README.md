@@ -14,10 +14,30 @@
 
 ## Litigation - Discovery
 
+* Roles
+
+* Transactions
+
+* Data
+
 ## Litigation - Filings
+
+* Roles
+
+* Transactions
+
+* Data
 
 ## Digital Signature
 
-# Scenario Candidates for Review
+* Roles
+
+* Transactions
+
+* Data
+
+-----------------------------------
+
+# Candidate Scenarios 
 
 ## Conflicts Checking
